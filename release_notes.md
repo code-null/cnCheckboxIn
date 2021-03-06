@@ -7,7 +7,8 @@ First stable version.
 ### New
 
 - code null styles applied
-- output value
+- added checkbox component
+- added radio button component
 
 ### Improved
 
