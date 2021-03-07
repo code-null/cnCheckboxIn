@@ -1,13 +1,13 @@
 # code null default components
 
-Note: This project follows the [code null guidelines](https://github.com/code-null/organization/blob/main/guidelines.md) in version 1.3.0
+Note: This project follows the [code null guidelines](https://github.com/code-null/organization/blob/main/guidelines.md) in version 1.0.0
 
 This is a collection of default components, all styled based on the code null colors. The technology specified applies to all of them. It is meant for cases, where there is no other templating engine or style libraries involved.
 
 ## Status
 
-Stage: Pre-Alpha
-Latest Stable Version: none
+Stage: Released
+Latest Stable Version: 1.1.0
 
 ## Technical Details
 
@@ -61,7 +61,7 @@ none
 
 ## Notes
 
-Anything else that should be mentioned
+none
 
 ## License
 
