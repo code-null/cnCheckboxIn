@@ -117,14 +117,14 @@ const styles = `
 			height: 25px;
 			width: 25px;
 			border-radius: 0.2rem;
-			outline-color: #32cd32;
+			outline-color: #5dadec;
 			transition-duration: 0.3s;
 			background-color: #eee;
 			margin: 3px;
 			cursor: pointer;
 			}
 			.cn-cbx-label input:checked {
-			background-color: #32cd32;
+			background-color: #5dadec;
 			}
 			.cn-cbx-label input:checked + span::before {
 			content: "✓";
@@ -137,7 +137,7 @@ const styles = `
 			}
 			.cn-cbx-label input:focus {
 			outline: none;
-			box-shadow: 0 0 0 0.05em #32cd32, 0 0 0.15em 0.1em #32cd32;
+			box-shadow: 0 0 0 0.05em #5dadec, 0 0 0.15em 0.1em #5dadec;
 			}
 
 			.cn-radio-wrapper {
@@ -171,11 +171,11 @@ const styles = `
 			}
 
 			.cn-radio-input input:focus + .cn-radio-control {
-			box-shadow: 0 0 0 0.05em #32cd32, 0 0 0.15em 0.1em #32cd32;
+			box-shadow: 0 0 0 0.05em #5dadec, 0 0 0.15em 0.1em #5dadec;
 			}
 
 			.radio-gradient input:checked + .cn-radio-control {
-			background: radial-gradient(#32cd32 50%, rgba(255, 0, 0, 0) 51%);
+			background: radial-gradient(#5dadec 50%, rgba(255, 0, 0, 0) 51%);
 			}
 
 			.cn-radio-wrapper-before .cn-radio-control {
@@ -186,7 +186,7 @@ const styles = `
 			content: "";
 			width: 0.5em;
 			height: 0.5em;
-			box-shadow: inset 0.5em 0.5em #32cd32;
+			box-shadow: inset 0.5em 0.5em #5dadec;
 			border-radius: 50%;
 			transition: 180ms transform ease-in-out;
 			transform: scale(0);
@@ -199,8 +199,8 @@ const styles = `
 			width: 1em;
 			height: 1em;
 			border-radius: 50%;
-			border: 0.1em solid #32cd32;
-			color: #32cd32;
+			border: 0.1em solid #5dadec;
+			color: #5dadec;
 			}
 	
 		</style>

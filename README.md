@@ -2,16 +2,17 @@
 
 Note: This project follows the [code null guidelines](https://github.com/code-null/organization/blob/main/guidelines.md) in version 1.0.0
 
-This is a collection of default components, all styled based on the code null colors. The technology specified applies to all of them. It is meant for cases, where there is no other templating engine or style libraries involved.
+This is a collection of default components, all styled based on the code null colors. The technology specified applies to all of them. It is meant for cases, where there is no other templating engine or style library involved.
 
 ## Status
 
 Stage: Released
+
 Latest Stable Version: 1.1.0
 
 ## Technical Details
 
-| Stack     | Technical ID | Reference Name      | Official Name                | Type       | Requires Accounts | Technology      |
+| Segment   | Technical ID | Reference Name      | Official Name                | Type       | Requires Accounts | Technology      |
 | --------- | ------------ | ------------------- | ---------------------------- | ---------- | ----------------- | --------------- |
 | Component | C0001        | cnDefaultComponents | code null default components | Collection | false             | HTML, CSS, POJS |
 
